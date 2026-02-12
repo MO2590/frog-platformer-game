@@ -1,0 +1,27 @@
+{
+  "name": "frog-platformer-game",
+  "version": "1.0.0",
+  "description": "2D platformer game with a frog character built with Phaser.js",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "game",
+    "platformer",
+    "phaser",
+    "javascript",
+    "frog",
+    "html5"
+  ],
+  "author": "MO2590",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.80.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
